@@ -1,6 +1,4 @@
-**# PSD-Expand
-Expand PSD to Folders
-**# 📦 PSD Layer Export Tool
+# 📦 PSD Layer Export Tool
 
 Photoshop（PSD）ファイルのレイヤー構造を、そのままフォルダ＋PNG画像として書き出すシンプルなツールです。
 
